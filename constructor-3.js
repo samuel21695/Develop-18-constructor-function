@@ -13,7 +13,7 @@
 class MakeObjectThree {
   // class는 매개변수 자리가 없고 '블록 스코프'를 이야기하는 중괄호를 작성한다.
   // 매개변수는 특정 함수인 constructor() 자리에 배치하며,
-  // constructor라는 이름은 작명할 숭 없다. 위 클래스명을 작명한다.
+  // constructor라는 이름은 작명할 수 없다. 위 클래스명을 작명한다.
   constructor(idValue, passwordValue, emailValue) {
     this.id = idValue;
     this.password = passwordValue;
